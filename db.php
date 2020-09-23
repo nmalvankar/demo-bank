@@ -1,6 +1,6 @@
 <?php
 
-$servername = "mysql";
+$servername = "mysql:3306";
 $dbname = "bankdemo";
 $username = "user";
 $password = "password";
