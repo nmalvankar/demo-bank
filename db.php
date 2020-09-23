@@ -1,6 +1,6 @@
 <?php
 
-$servername = "mysql:3306";
+$servername = "mysql.bofa.svc.cluster.local";
 $dbname = "bankdemo";
 $username = "user";
 $password = "password";
